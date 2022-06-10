@@ -1,2 +1,2 @@
-BOT_TOKEN = "5586392082:AAGFGI8DiGDA6ngWqsUeMMbX05oRqc2fODI"
-APP_URL = "https://ploikk77u.herokuapp.com/" + BOT_TOKEN
+BOT_TOKEN = "5518978783:AAEXDXY_apZiAS4AFbpwj4vrcYXOBHKheRs"
+APP_URL = "https://ytgycun.herokuapp.com/" + BOT_TOKEN
